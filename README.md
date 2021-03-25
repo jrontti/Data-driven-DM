@@ -1,6 +1,6 @@
 Welcome to Github my Github page. This repository is used for Data-Driven Decision Making for Smart Cities and Businesses- course
 
-Elasticsearch + Kibana personal guide and cheat sheet 
+Elasticsearch + Kibana personal guide and cheat sheet for personal set up
 
 1. Get on cmd and get Elastic & Kibana
 
