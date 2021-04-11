@@ -40,10 +40,10 @@ http://localhost:5601
 Setting up ELK cluster in Pouta
 
 Cluster architecture:
-node 1: master node
-node 2: data node
-node 3: data node
-node 4: ingest node
+node 1: master node  /installed Elasticsearch
+node 2: data node    /installed Elasticsearch
+node 3: data node    /installed Elasticsearch
+node 4: ingest node  /installed Elasticsearch,Nginx, Kibana
 
 
 
