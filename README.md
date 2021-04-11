@@ -34,3 +34,17 @@ curl http://localhost:5601
 http://localhost:9200
 
 http://localhost:5601
+
+################################################
+
+Setting up ELK cluster in Pouta
+
+Cluster architecture:
+node 1: master node
+node 2: data node
+node 3: data node
+node 4: ingest node
+
+
+
+
