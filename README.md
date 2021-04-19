@@ -47,7 +47,14 @@ node 4: ingest node  /installed Elasticsearch,Nginx, Kibana
 
 Kibana finally online http://193.166.25.252/
 
+Project: Suomi24 Trend identification.
+
+Useful information about Suomi24 data. Good explanation about format of .json files etc.
+
 https://helda.helsinki.fi//bitstream/handle/10138/163190/257383_HY_VALT_suomi24_muodonantoa_aineistolle.pdf?sequence=1
+
+Todo: figure out how to put 10gigs of json files to elasticsearch and kibana
+
 
 
 
