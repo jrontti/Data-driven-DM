@@ -45,6 +45,10 @@ node 2: data node    /installed Elasticsearch
 node 3: data node    /installed Elasticsearch
 node 4: ingest node  /installed Elasticsearch,Nginx, Kibana
 
+Kibana finally online http://193.166.25.252/
+
+https://helda.helsinki.fi//bitstream/handle/10138/163190/257383_HY_VALT_suomi24_muodonantoa_aineistolle.pdf?sequence=1
+
 
 
 
